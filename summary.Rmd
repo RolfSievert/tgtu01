@@ -1,0 +1,50 @@
+---
+title: "Teknik och etik - TGTU01"
+---
+
+Normativ etik - hur man bör handla
+
+Deskriptiv etik - hur man faktiskt handlar
+
+Dygdetik - praktisk visdom. Genomtänkt i förväg. Typ principer, inte instinkt. Exempel, vilka karaktärsdrag har en bra person.
+
+Deontologi - Motsats till konsekventialistiska etiken. Avgörs genom huruvida handlingen följt gällande etisk norm (pliktetik).
+
+Utilitarism - Maximera nytta: Maximera lycka, minimera lidande.
+
+Moraliskt resonemang (mall)
+
+* Argument - premisser som stödjer en tankekedja
+* Hållbarhet - Hur vi tror premisserna är riktiga.
+* Relevans - Premisserna stödjer slutsats?
+
+FRA - Försvarets Radioanstalt (avlyssning, övervaka, positionering)
+
+Kantialism - Motsats till utilitarism. Beror på avsikt, absoluta regler, etc.
+
+Maxim - Etisk regel som vuxit fram av erfarenhet.
+
+Kategoriskt imperativ - Handla endast efter den maxim du vill ska bli allmän lag (oavsett omständigheter).
+
+Hypotetiskt imperativ - Om du vill uppnå X så utförs Y. Vissa konsekvenser kräver vissa handlingar.
+
+Teknikvärdering - Forskning och/eller utredning för att klarlägga konsekvenser samt möjligheter att påverka konsekvenser.
+
+Avgränsa analysen -> (Bedöm teknikens möjligheter, bedöm efterfrågan) -> Bedöm möjliga konsekvenser -> Utvärdera konsekvenser
+
+Framsynanalys:
+
+* Extrapolering av trender
+* Beskrivning av scenarier
+* Brainstorming
+* Historiska analogier
+
+Ansvar:
+
+* Kausalansvar - den som orsakade händelsen
+* Uppgiftsansvar - polis etc
+* Skuldansvar - någon att klandra
+
+Handlingsutilitarism - Handla så att konsekvenserna är så goda som möjligt
+
+Regelutilitarism - Om det blev en regel som skulle göra allt bättre

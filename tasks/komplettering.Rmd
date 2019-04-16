@@ -1,0 +1,99 @@
+---
+title: "Komplettering paperserminarium"
+author: "Rolf Sievert (rolsi701)"
+fontsize: 12
+---
+
+# Grupp 5 - Sökmotorers algoritmer
+
+## Sammanfattning
+
+Rapporten börjar med att behandla olika begrepp samt några etiska principer som *Association for Computing Machinery (ACM)* har formulerat.
+Principerna handlar om att utgå från att alla människor påverkas av datoriserade förändringar, undvika skada, vara ärlig och trovärdig (mot användare), och respektera personers integritet.
+Sedan beskrivs de två ansvarstyperna uppgiftsansvar och skuldansvar (vilka är desamma som de som nämns i kursmaterialet) och rapporten fortsätter med att beskriva hur dessa ansvar appliceras på ingenjörer.
+
+Datainsamling och sökmotorprofilering beskrivs, samt hur de fungerar (hur data samlas genom cookies, sökningar sparas, och individen får en profil om vilka resultat som troligen passar den). 
+Texten ger exempel på sökmotorer som använder profilering, Google, Bing, Yahoo search.
+Det finns sessionscookies som är temporära för sidan man befinner sig på i stunden. 
+Det finns också spårningskakor som kopplar direkt till användaren utanför hemsidor (som samlar info för reklam etc).
+Rapporten fortsätter med att beskriva olika regler gällande datainsamling och cookies. 
+Texten börjar sedan nosa på problematiken med datainsamling, vilket är att det är önskvärd för att göra sökningar mer relevanta, samtidigt som det inte tar lika mycket hänsyn till integritet. 
+De nämner också lite exempel då integritet inte har respekterats och data har delats till staten.
+Det är också ett problem med profiler då de inte ger neutrala sökresultat, vilket kan leda till att man hamnar in informationsbubblor (filterbubbla).
+
+Under diskussionen skrivs det om de argument som är för och emot datasamling. Att det är åtråvärt med profiler, samtidigt som det inte är det.
+Man vill ha relevanta men samtidigt neutrala resultat.
+Ett till problem är då sökmotor-företagen går runt genom sponsorer som manipulerar sökresultaten ännu mer.
+
+Diskussionen nämner även hur otydligt det är för användaren hur datan används.
+Det är också svåråtkomlig information (p.s.v att det är långa svårläsliga texter som förklarar vad som gäller).
+Sökmotorers ansvarsområden nämns sedan (kopplar till uppgiftsansvar och skuldanvar) och rapporten kritiserar hur diskuterat dessa ansvar faktiskt är.
+Det är ett problem för sökmotor-företagen att behöva lyda stater där de opererar, då de måste lyda för att få ha kvar sina kunder, men genom att de lyder tappar de sin trovärdighet gällande respekterande av integritet.
+Rapporten behandlar sedan hur stort problem filterbubblan är. Den är bra för att den kan ge relevanta lösningar, men samtidigt ge fel förslag än vad som är nyttigt.
+
+## Reflektion
+
+Det är positivt att sökmotorer kan försörjas gratis utan kostnader för användaren. 
+Vad är det värt? 
+Är det värt marknadsförande resultat?
+Det svåra med sökmotorer är att Google har största delen av marknaden, vilket bildar ett monopol där ingen riktigt kan tävla med deras sökmotor.
+På så vis går det inte heller att påverka marknadsförande resultat.
+
+Jag tror att Google är fullt medvetna om deras problem med att hålla integritet, och jag tror att det är något som diskuteras mycket.
+Då de ändå är ett företag måste de tjäna pengar för att överleva, och det låter som att de hamnar i kläm mellan staten och folket.
+Staten vill använda informationen för att övervaka och försvara medan folket vill hålla informationen anonym, eller inte delge någon information alls.
+Google ligger då mitt emellan dessa åsikter men måste lyda staten (delvis i.a.f).
+
+Bra text i övrigt, tycker den tar upp många aspekter på problemet och gör en rimlig bedömning.
+
+# Grupp 6 - Genom hos foster
+
+## Sammanfattning
+
+Rapporten börjar med att förklara det regelmässiga nuvarande läge om abort och fosterdiagnostik, samt kopplingen dessa har till att ändra genomet hos foster.
+Olika sätt som genmodifiering kan t.ex. ta bort sjukdom eller ändra barnets attribut, frågan är i vilken utsträckning det är okej.
+
+Texten ger exempel på då genmodifiering använts. De presenterar ett argument mot genmodifiering (man vill inte att modifieringarna ska vara ärftliga), och ett argument för (tänk hur många liv som kan räddas med genmodifiering, jämför det med hur många som är drabbade nu tack vare avsaknad av genmodifiering).
+Efter det nämns det mer ingående om regler som angår genmodifiering och närliggande ämnen (mest fokus på abort). 
+De ser sedan på frågan med ett utilitaristiskt perspektiv (maximera lycka), ger för och nackdelar.
+Man kan också se på det som att det är okej att genmodifiera eftersom det inte skadar någon annan människa. Det är dock inte glasklart att det inte skulle skada andra, då genmodifiering skulle påverka samhället och orsaka skada genom t.ex. samhällsklyftor. Man kan ifrågasätta om själva handlingen är god i sig, med avseende på avsikten. Är syftet att rädda barnet och föräldern? Underminerar vi de som lider av sjukdomar genom att bota foster från dem?
+
+Rapporten klarlägger sedan när man anser att fostret har rättigheter (då den utvecklat medvetande), samt föräldrarnas rättigheter till abort och liknar dessa med rättigheter för genmodifiering. Det krävs att föräldrarna har förmågan att använda informationen från fosterdiagnostik på ett adekvat sett och fatta ett rimligt beslut.
+Rapporten tar upp några siffror kring lycka hos individer med Downs syndrom, som ett argument för att det faktiskt inte finns anledning att göra abort då man misstänker att fostret lider av Downs syndrom.
+Man kan sedan se på sjukdomen ur föräldrarnas perspektiv, vilket det beskrivs som att det kan vara otroligt krävande. Det krävs god vård från samhället för att inte överbelasta föräldrar. Sjukdomar kan också leda till arbetslöshet, vilket syns statistiskt i fallet om Downs syndrom. Det skapar också arbete då det krävs vård för funktionsnedsatta. Det går inte att sätta ett liv mot kostnaderna det utsätter samhället för heller, då det är väldigt oetiskt.
+
+Gruppen kommer fram till att sjukdomar inte strikt ska förhindras, men att föräldrarna får bestämma vad som ska göras. Det är viktigt att respektera de inblandade, då sjukdomen påverkar föräldrarna också. Det är dock viktigt att ha alla perspektiv nämnda i åtanke.
+
+Det diskuteras kring genmodifiering, och jämförs med doping som kan leda till en orättvis tävling, eller priviligierade barn, och klasskillnader det kan skapa. 
+Gruppen upplever att tekniken ska finnas tillgänglig för alla, det ska inte vara en kostnadsfråga (då det kan maximera nytta).
+Det är svårt med genmodifiering då man inte kan ta fostrets åsikt i det hela. Kanske görs ett ingrepp som barnet inte skulle hålla med om senare i livet.
+Problemet om vilka egenskaper som ska vara tillåtna att ändra nämns också, då inte allt är givet bra eller dåligt.
+
+Gruppen anser att genmodifiering är okej, men bara till en viss gräns. Då för skräddarsydda genmodifieringar är onödiga kostnader och kan leda till klasskillnader tycker de inte att det ska tillåtas, men att det ska tillåtas (om det kan vara tillgängligt för alla som jag förstår det) då det kan leda till snabbare utveckling hos samhället. Gruppen anser att kosmetiska förändringar ska förbjudas eller kosta mycket, och att det ska vara okej att ta bort ärftliga/dödliga sjukdomar.
+
+## Reflektion
+Jag uppskattade analysen kring sjuka och deras lycka, då det inte är något självklart rätt eller fel om man ser på problemet från individens perspektiv (den modifierade). Det är dock rätt det som gruppen skriver, att det är många runtomkring som blir drabbade i fallet av Downs syndrom t.ex. Dessa perspektiv är svåra att väga mot varandra då man vill respektera individen samtidigt som man bryr sig om välmåendet hos föräldrar etc. Det känns som att respekt för individen är starkt kopplat till pliktetiken, och därför svår att bryta mot. Sedan kan man se det som att fostret inte har utvecklat medvetande och därför spelar det ingen roll om man genmodifierar det eller ej. Det kan också ses som att barnet får ett gladare/ledsnare liv beroende på vad för handling man väljer att göra. På så vis har man ett ansvar för fostrets utveckling.
+
+# Grupp 7 - Genmodifiering
+
+## Sammanfattning
+Texten börjar med att ge en introduktion till genmodifieringens potential. De ställer frågan om det är okej att genmodifiera för att förebygga sjukdomar och ändra kosmetik samt andra egenskaper.
+
+Texten nämner avling, som också är ett diskuterat ämne (Belgian Blue), samt fördelar moderna metoder kan ha (genmodifiering) på t.ex. odling.
+De säger att forskare anser att det är viktigast att reglera genmodifiering hos djur och växter innan människor. Rapporten ger sedan exempel på genmodifieringar (CRISPR och immunoterapi).
+Gruppen drar koppling mellan gener och beteende, t.ex. valet att röka (något som genmodifiering i teori skulle kunna påverka). Rökning är skadligt beteende. Gener påverkar mer än bara initialtillstånd och utveckling (också beteende), är vad jag upplever det som att de vill förmedla i rapporten.
+
+Under diskussionen nämner de de positiva konsekvenserna (lägre kostnad för samhälle, lycka genom att vara frisk, etc.) av att förhindra sjukdomar, men de berör också att lyckan inte nödvändigtvis är större hos den drabbade.
+Gruppen skriver att även om genmodifiering är tillgängligt för alla, är det antagligen ganska få som faktiskt behöver den och som man kan se ärver sjukdomar (då i många fall utvecklas de utan att tidigare generationer haft samma sjukdom). Det är dock onekligen en god gärning att hålla tekniken tillgänglig för de som behöver den.
+
+Precis som tidigare grupp diskuteras samhällsklyftorna som kan skapas av genmodifiering, men också att de som inte har tillgång till genmodifiering inte nödvändigtvis blir olyckligare, bara att de som har tillgång blir lyckligare. De jämför med plastkirurgi. 
+Det kan också skapa olycka att man hade möjligheten att påverka barnet på ett sätt, men att man inte gjorde det eller att man valde t.ex. fel ögonfärg. 
+Sedan går de in på pliktetiken och använder pliktetiken som religioner försöker förmedla. Det är inte pliktetiskt att göra genmodifieringar, eftersom vi inte vet hur det kommer påverka framtiden.
+
+De kommer fram till ungefär samma saker som tidigare grupp angående samhällskostnader och prioriteringar om genmodifiering (prioritera hälsa, inte utseende och liknande). Gruppen säger också att bara för att någon har bra egenskaper, betyder inte det att detta kommer nyttjas, och således inte öka lyckan för personen.
+De tar även upp problemet om vem som ska ansvara för om genmodifieringen tappar kontrollen, hur ska man kunna laga en sådan sak?
+
+Rapporten slutar med att dra slutsats om att det är etiskt oförsvarbart med genmodifieringar som påverkar utseende och liknande egenskaper. Gruppen anser dock att bota sjukdomar är övervägande positivt. De säger också att det är svårt att dra en gräns för vad som är okej för det finns så många möjliga fall och man bör titta på varje enskilt.
+
+## Reflektion
+Jag tycker slutsatsen var väldigt bra, något jag håller med om själv efter att ha läst deras diskussion. Tycker det var ett intressant perspektiv på hur gener påverkar beteende, det var inte något jag hade tänkt på innan. Kanske är det så att genmodifiering inte skulle påverka så mycket som vi är rädda för att det kan göra, då det fortfarande är upp till individer att bestämma om de vill genmodifiera, och sedan upp till den modifierade om den vill utnyttja sin egenskap eller ej.

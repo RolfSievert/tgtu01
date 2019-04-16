@@ -1,0 +1,45 @@
+
+
+#Introduktion
+
+##Info
+
+6 föreläsningar. Tre om normativ etik, tre om teknikens etik.
+
+##Seminarier
+
+* Moraliskt ansvar och autonoma fordon
+* Framsynanalys (gruppförberedelser och gruppredovisning)
+* Paperseminarium
+
+##Examination
+
+* Obligatorisk närvaro på seminarier. Kompensationsuppgift vid frånvaro.
+* På tredje(sista) seminariet ska man skriva en uppgift som diskuteras.
+* hemtenta som blir tillgänglig 8 mars. Skickas senast 15 Mars kl 16.00.
+
+
+#Vad är etik?
+
+**Normativ etik** är hur vi bör handla.
+**Deskriptiv etik** är hur vi faktiskt handlar.
+
+##Normativ etik - tre teorier
+
+* Konsekvensetik
+* Pliktetik - vissa handlingar är i sig ok eller ej oavsett konsekvens
+* Dygdetik - vilka karaktärsdrag har en bra person
+
+##Tillämpad etik
+Frågor som dyker upp från praktiken. 
+T.ex, ska vi tillåta datorer fatta livsavgörande beslut?
+
+##Fakta och värde
+Påstående om fakta ("är") - Sprutbyte minskar spridningen av HIV
+Påstående om värde ("bär") - Samhället bör inte uppmuntra till missbruk
+
+##Moraliska resonemang - bra för skrivuppgifter
+* Argument - en tankekedja i vilken skäl (premisser) tillhandahålls till stöd för en slutsats
+* Hållbarhet - utsträckningen i vilken vi har skäl att tro att premisserna är riktiga
+* Relevans - utsträckningen premisserna faktiskt stödjer slutsatsen
+
